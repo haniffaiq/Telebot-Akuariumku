@@ -1,0 +1,17 @@
+{
+  "name": "akuariumku",
+  "version": "1.0.0",
+  "description": "",
+  "main": "sensor.js",
+  "dependencies": {
+    "mqtt": "^4.2.8",
+    "node-telegram-bot-api": "^0.56.0",
+    "nodemon": "^2.0.15"
+  },
+  "devDependencies": {},
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "",
+  "license": "ISC"
+}
